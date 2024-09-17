@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @migeoli  
+- 👀 I’m interested in machine learning, artificial intelligence, and automation.  
+- 🌱 I’m currently learning deep learning models and natural language processing (NLP).  
+- 💞️ I’m looking to collaborate on applied AI projects and supervised learning model development.  
+- 📫 How to reach me: you can contact me via email at miguelguilherme.catanduva@gmail.com.  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I love exploring how AI can optimize everyday processes and create innovative solutions!  
